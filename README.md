@@ -5,7 +5,7 @@
 ## APIS
 
 ### get-https://localhost:8000/customers/:id             - used for fetching the customer details through customer id
-### patch-https://localhost:8000/customers/:id           - used for updating the customer detail through customer id
+### put-https://localhost:8000/customers/:id           - used for updating the customer detail through customer id
 
 ## How to run the project
 
