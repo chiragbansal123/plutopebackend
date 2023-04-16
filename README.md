@@ -4,10 +4,10 @@
 
 ### get-https://localhost:8000/customers/:id             - used for fetching the customer details through customer id
 ### patch-https://localhost:8000/customers/:id           - used for updating the customer detail through customer id
-# How to run the project
+## How to run the project
 
-## Clone the project
-## Run node index.js
+### Clone the project
+### Run node index.js
 
 ## Technology Used
 ### nodejs,express,mongoose,joi
