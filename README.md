@@ -1,5 +1,7 @@
 ## In this api,we are fetching customer data by sending the id of the customer and updating customer data
-   We have used Joi for validation of data 
+
+### We have used Joi for validation of data 
+
 ## APIS
 
 ### get-https://localhost:8000/customers/:id             - used for fetching the customer details through customer id
